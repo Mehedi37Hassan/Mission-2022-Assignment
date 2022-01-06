@@ -1,3 +1,4 @@
+/*              1st part */
 body{
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
@@ -7,9 +8,6 @@ section{
     margin: 10%;
     margin-top: 50px;
     padding-bottom: 0px;
-}
-.top-container{
-    /* background-color: aqua; */
 }
 .half-width{
     width: 40%;
@@ -22,12 +20,8 @@ section{
     padding-left: 10px;
     font-size: 70px;
 }
-.half-width h2{
-    font-size: 50px;
-    font-weight: 800;
-}
-.orange-color{
-    color:orange;
+.span-color{
+    color:darkorange;
 }
 .half-width img{
     width: 80%;      
@@ -48,6 +42,8 @@ section{
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+/*        2nd part       */
 .container-part{
     /* background-color: #26316e; */
 }
@@ -58,9 +54,9 @@ section{
     text-align: center;
     color: #13103A;
 }
-.mission-span{
+/* .mission-span{
     color: #FFAD5A;
-}
+} */
 .second-part{
 display: flex;
 }
@@ -88,46 +84,41 @@ display: flex;
 .mission h2{
     font-weight: bolder;    
 }
-.without-limits{
-    /* background-color: blueviolet; */
+
+/*              3rd part */
+.half-width h2{
+    font-size: 50px;
+    font-weight: 800;
 }
+ /*                 4th part */
 .global-Community{
     padding-top: 30px;
     padding-bottom: 0%;
-    /* background-color: #FF5959; */
 }
-            /*      Footer Part             */
+.global-img{
+    margin-left: 150px;
+}
+            /*     5th or  Footer Part             */
 
 .footer{
-    /* margin-top: 50px; */
     margin: 0%;
-    margin-bottom: 5px;
     height: 250px;
     background-color: black;
 }
 .footer-content{
     padding-top: 20px;
+    text-align: center;
 }              
 .footer h1{
     font-family: 'Great Vibes', cursive;
     font-size: 40px;
     font-weight: 900;
-    text-align: center;
-    color: white;
-}
-.title-header{
-    display: block;
-    margin-bottom: 50px;
-    text-align: center;
-}
-.footer p{
-    text-align: center;
     color: white;
 }
 .footer-span{
     color: #FF5959 ;
 }
-
-
-
-
+.footer p{
+    
+    color: white;
+}
