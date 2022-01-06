@@ -1,0 +1,133 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 600px;
+    margin: 10%;
+    margin-top: 50px;
+    padding-bottom: 0px;
+}
+.top-container{
+    /* background-color: aqua; */
+}
+.half-width{
+    width: 40%;
+    float:left;
+    padding-left: 2%;
+}
+.half-width h1{
+    font-family: 'Abril Fatface', cursive;    
+    border-left: 5px solid #FF5959;
+    padding-left: 10px;
+    font-size: 70px;
+}
+.half-width h2{
+    font-size: 50px;
+    font-weight: 800;
+}
+.orange-color{
+    color:orange;
+}
+.half-width img{
+    width: 80%;      
+}
+.person-margin{
+    margin-left: 150px;
+}
+.half-width p{
+    text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( lightsalmon, tomato);
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.container-part{
+    /* background-color: #26316e; */
+}
+.container-part h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight:900;
+    text-align: center;
+    color: #13103A;
+}
+.mission-span{
+    color: #FFAD5A;
+}
+.second-part{
+display: flex;
+}
+.mission{
+    height: 500px;
+    width:35%;
+    background-color: rgb(135, 222, 161);
+    margin: 20px;
+    border-radius: 20px;
+    padding:20px;
+}
+.mission-color{
+    background-color: #EDF5F6;
+}
+.vission-color{
+    background-color: #FFEEEE;
+}
+.goal-color{
+    background-color: #FFF4D6;
+}
+.mission img{
+    height: 300px;
+    width: 200px;
+}
+.mission h2{
+    font-weight: bolder;    
+}
+.without-limits{
+    /* background-color: blueviolet; */
+}
+.global-Community{
+    padding-top: 30px;
+    padding-bottom: 0%;
+    /* background-color: #FF5959; */
+}
+            /*      Footer Part             */
+
+.footer{
+    /* margin-top: 50px; */
+    margin: 0%;
+    margin-bottom: 5px;
+    height: 250px;
+    background-color: black;
+}
+.footer-content{
+    padding-top: 20px;
+}              
+.footer h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+}
+.title-header{
+    display: block;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.footer p{
+    text-align: center;
+    color: white;
+}
+.footer-span{
+    color: #FF5959 ;
+}
+
+
+
+
